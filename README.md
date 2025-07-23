@@ -29,7 +29,7 @@
         <li>Naive Bayes Classifier</li>
         <li>Bag of Words & Laplace Smoothing</li>
       </ul>
-      <a href="./CA0">➡️ View Project</a>
+      <a href="./CA0_Intro_to_NumPy_and_Bayes">➡️ View Project</a>
     </td>
   </tr>
 
@@ -50,7 +50,7 @@
         <li>Exponential Dist. & Memorylessness</li>
         <li>Box-Muller Transform</li>
       </ul>
-      <a href="./CA1">➡️ View Project</a>
+      <a href="./CA1_Statistical_Distributions">➡️ View Project</a>
     </td>
   </tr>
 
@@ -71,7 +71,7 @@
         <li>Correlation vs. Causation</li>
         <li>Time-Series with Pandas</li>
       </ul>
-      <a href="./CA2">➡️ View Project</a>
+      <a href="./CA2_Bayesian_and_Correlation">➡️ View Project</a>
     </td>
   </tr>
 
@@ -92,7 +92,7 @@
         <li>Linear Regression</li>
         <li>Normal Approx. of Binomial</li>
       </ul>
-      <a href="./CA3">➡️ View Project</a>
+      <a href="./CA3_Central_Limit_Theorem">➡️ View Project</a>
     </td>
   </tr>
 </table>
